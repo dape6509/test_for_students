@@ -5,5 +5,6 @@ def myfunc(a, b):
 # using myfunc:
 
 a = 1
+b = 2
 
 myfunc(a)
